@@ -1,0 +1,39 @@
+C:\Users\Kirill\Documents\c#\Pop\Pop\bin\Debug\netcoreapp3.1\Pop.exe
+C:\Users\Kirill\Documents\c#\Pop\Pop\bin\Debug\netcoreapp3.1\Pop.deps.json
+C:\Users\Kirill\Documents\c#\Pop\Pop\bin\Debug\netcoreapp3.1\Pop.runtimeconfig.json
+C:\Users\Kirill\Documents\c#\Pop\Pop\bin\Debug\netcoreapp3.1\Pop.runtimeconfig.dev.json
+C:\Users\Kirill\Documents\c#\Pop\Pop\bin\Debug\netcoreapp3.1\Pop.dll
+C:\Users\Kirill\Documents\c#\Pop\Pop\bin\Debug\netcoreapp3.1\Pop.pdb
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.csprojAssemblyReference.cache
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.AssemblyInfoInputs.cache
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.AssemblyInfo.cs
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.dll
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.pdb
+C:\Users\Kirill\Documents\c#\Pop\Pop\obj\Debug\netcoreapp3.1\Pop.genruntimeconfig.cache
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\bin\Debug\netcoreapp3.1\Pop.exe
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\bin\Debug\netcoreapp3.1\Pop.deps.json
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\bin\Debug\netcoreapp3.1\Pop.runtimeconfig.json
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\bin\Debug\netcoreapp3.1\Pop.runtimeconfig.dev.json
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\bin\Debug\netcoreapp3.1\Pop.dll
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\bin\Debug\netcoreapp3.1\Pop.pdb
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.csprojAssemblyReference.cache
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.AssemblyInfoInputs.cache
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.AssemblyInfo.cs
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.dll
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.pdb
+C:\Users\Kirill\Documents\c#\Pop — копия\Pop\obj\Debug\netcoreapp3.1\Pop.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\bin\Debug\netcoreapp3.1\Pop.exe
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\bin\Debug\netcoreapp3.1\Pop.deps.json
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\bin\Debug\netcoreapp3.1\Pop.runtimeconfig.json
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\bin\Debug\netcoreapp3.1\Pop.runtimeconfig.dev.json
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\bin\Debug\netcoreapp3.1\Pop.dll
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\bin\Debug\netcoreapp3.1\Pop.pdb
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.dll
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.pdb
+C:\Users\Kirill\Desktop\Projekt\Areas_of_a_circle_and_a_triangle\Pop\obj\Debug\netcoreapp3.1\Pop.genruntimeconfig.cache
